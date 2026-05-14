@@ -1,4 +1,4 @@
-# 
+# advanced Plugin for OBS Studio for PC | OBS Studio for Windows - audio-mixing and video-encoding is the best OBS Studio for PC | OBS Studio for Windows plugin, featuring
 
 
 
